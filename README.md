@@ -86,9 +86,13 @@ The LyAT controller was validated on a **Freefly Astro quadrotor** at the Univer
 
 ## Authors & Contributors
 **Saiedeh Akbari** (akbaris@ufl.edu) - Lead author, core LyAT.py algorithm development and theoretical analysis, LyAT deployment and tuning
+
 **Xuehui Shen** - Co-author, assisted with the theoretical analysis
+
 **Wenqian Xue** - Co-author, assisted with the theoretical analysis
+
 **Jordan Insinger** - Co-author, hardware setup, experimental testbed configuration, ROS setup, lyat_node.py development, and flight operation
+
 **Warren Dixon** - Principal Investigator, supervision, and theoretical analysis
 
 | Component | Primary Developer(s) |
