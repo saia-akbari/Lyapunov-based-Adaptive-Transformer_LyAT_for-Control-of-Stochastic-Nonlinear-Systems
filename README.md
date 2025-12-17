@@ -9,6 +9,8 @@ Implementation of LyAT: A Lyapunov-based Adaptive Transformer for stochastic non
 - QGroundControl
 
 ## Configuration
+All parameters are configured in `src/config.json`:
+```json
 {
     "n_states": 6,              # State dimension
     "window_size": 20,          # Historical window size (τ)
@@ -24,6 +26,7 @@ Implementation of LyAT: A Lyapunov-based Adaptive Transformer for stochastic non
     "d_ff": 5,                  # Feedforward dimension
     "VEL_MAX": 1.8              # Maximum velocity (m/s)
 }
+```
 
 ## Hardware Deployment
 #### For Simulation:
